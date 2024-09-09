@@ -1,0 +1,7 @@
+C:\Users\ramck\source\repos\TestingActions\TestingActions\bin\Debug\TestingActions.exe.config
+C:\Users\ramck\source\repos\TestingActions\TestingActions\bin\Debug\TestingActions.exe
+C:\Users\ramck\source\repos\TestingActions\TestingActions\bin\Debug\TestingActions.pdb
+C:\Users\ramck\source\repos\TestingActions\TestingActions\obj\Debug\TestingActions.csproj.AssemblyReference.cache
+C:\Users\ramck\source\repos\TestingActions\TestingActions\obj\Debug\TestingActions.csproj.CoreCompileInputs.cache
+C:\Users\ramck\source\repos\TestingActions\TestingActions\obj\Debug\TestingActions.exe
+C:\Users\ramck\source\repos\TestingActions\TestingActions\obj\Debug\TestingActions.pdb
